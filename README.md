@@ -1,6 +1,7 @@
 # PLSPM With Python
 
 Author: Fauzi Alfi Yasin
+
 Contact: [fauzialfiysn@gmail.com](mailto:fauzialfiysn@gmail.com)
 
 Ref:
@@ -13,7 +14,9 @@ https://www.youtube.com/watch?v=o_ePflDivJE
 
 # Information
 
-This repository is use only for learning purpose. The data shown cannot use for any reason (except learning) without permission. 
+This repository is use only for learning purpose. 
+
+The data shown cannot use for any reason (except learning) without permission. 
 
 # How To Use
 
